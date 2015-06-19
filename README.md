@@ -13,11 +13,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem doloribus q
 FEATURES（插件特征）
 ======
 * 利用动画，执行原生滚动
-* 
 
 Plug-in list （加载的插件列表）
 ======
-[jQuery](http://jquery.com/)
-[Greensock - Tweenmax](http://greensock.com/tweenmax)
-[Greensock - jquery.gsap.js](http://greensock.com/jquery-gsap-plugin)
+*[jQuery](http://jquery.com/)
+*[Greensock - Tweenmax](http://greensock.com/tweenmax)
+*[Greensock - jquery.gsap.js](http://greensock.com/jquery-gsap-plugin)
+
 >其实不一定要用jQuery，Zepto也是很不错，只是我懒。
